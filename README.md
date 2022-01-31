@@ -7,4 +7,4 @@ Randomly approaching universities may not result in satisfying new customers rel
 
 # Data
 
-Dataset was obtained from the Integrated Postsecondary Education Data System [IPEDS](https://nces.ed.gov/ipeds/)
+Dataset was obtained from the [Integrated Postsecondary Education Data System](https://nces.ed.gov/ipeds/) (IPEDS).
